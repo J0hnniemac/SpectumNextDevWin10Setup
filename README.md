@@ -16,7 +16,9 @@ https://github.com/psbhlw/sublime-text-z80asm
 
 
 #Assembler  
-https://github.com/ped7g/sjasmplus  
+
+https://github.com/z00m128/sjasmplus
+
 example cmd  
 ..\Tools\sjasmplus --zxnext=cspect --nofakes --nologo --msg=err --sym=.\Main.sym .\Main.asm  
 
